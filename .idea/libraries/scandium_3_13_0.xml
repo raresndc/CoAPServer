@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="scandium-3.13.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/scandium-3.13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
